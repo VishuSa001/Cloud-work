@@ -1,0 +1,30 @@
+#home{
+
+}
+#home p{
+padding: 20px 319px;
+}
+#services{
+    flex-direction: column;
+
+}
+#services .box{
+    flex-direction: column;
+    margin-top: 161px;
+
+}
+
+#navbar{
+    flex-direction: column;
+}
+#navbar::before{
+    width: 139%;
+}
+
+/* clients section */
+#client{
+overflow: hidden;
+}
+.primary{
+    margin-top: 161px;
+}
